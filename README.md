@@ -1,6 +1,6 @@
 # tweetFeedSupport
 
-Support for <a href="http://tweetfeed.org/">tweetfeed.org</a>.
+<a href="http://tweetfeed.org/">TweetFeed</a> turns your tweet stream into a readable RSS feed.
 
 For docs see <a href="http://docs.tweetfeed.org/">docs.tweetfeed.org</a>.
 
